@@ -1,7 +1,7 @@
 
 
 
-## Webpack5 boilerplate
+## Webpack 5 boilerplate
 
 
 ***

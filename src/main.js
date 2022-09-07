@@ -2,7 +2,8 @@
 import './main.html'
 //import './index.scss';
 import './main.scss'
-import code from './img/code.png'
+//import code from './img/code.png'
+import code from './img/code2.PNG'
 import {mult, sum} from './modules/calc'
 
 const imgWrap = document.querySelector( '.imgJS' )
